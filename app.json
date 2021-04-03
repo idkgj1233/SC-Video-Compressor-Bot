@@ -1,7 +1,7 @@
 {
-  "name": "VideoCompressBot",
-  "description": "Telegram's best Video Compress Bot",
-  "logo": "https://telegra.ph/file/b687febf32e4d583fb1d4.jpg",
+  "name": "SC_VideoCompressBot",
+  "description": "Telegram's Powerful and simple Video Compress Bot",
+  "logo": "https://telegra.ph/file/889e66c39d5078dac0795.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://telegram.dog/VidComBot",
-  "website": "https://t.me/DX_Botz",
-  "repository": "https://github.com/Jijinr/VidComBot",
+  "success_url": "https://telegram.dog/UC_bot_channel",
+  "website": "https://telegram.dog/UC_bot_channel",
+  "repository": "https://github.com/idkgj1233/SC-Video-Compressor-Bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
