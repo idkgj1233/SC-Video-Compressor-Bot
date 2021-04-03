@@ -1,25 +1,23 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# (c) PublicLeech Author(s)
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU Affero General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU Affero General Public License for more details.
-
-# You should have received a copy of the GNU Affero General Public License
-# along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
 from bot.get_cfg import get_config
 
 
 class Localisation:
-    START_TEXT = "Hello, \n\nThis is a Telegram Video Compress Bot \n\n<b>Please sent me any Telegram big file I Will compress a small file</b> \n\n/help for more details... \n\nSupport Group :@Dx_Support"
-   
+    START_TEXT = """Ciao😁,
+    
+This is <b>🌩Saviour Coders' Video Compressor Bot🌩.</b>
+
+<i>🔥Send any link and it will be Compressed to the desired size.</i>
+
+<b>Click👉</b> /help for more details.
+
+<b>Features of the bot:</b>
+<i>🌈Superfast
+🌈Responsive 
+🌈Easy to use</i>
+
+<b>Support Group</b> :- 🐠@ubuntu_coders🐠
+<b>Support Channel</b> :- 🐬@UC_bot_channel🐬
+<b>My Master</b> :- ⛵️@saviour_coder⛵️"""
     ABS_TEXT = " Please don't be selfish."
     
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
@@ -59,7 +57,7 @@ class Localisation:
     
     HELP_MESSAGE = get_config(
         "STRINGS_HELP_MESSAGE",
-        "Hi am Video Compressor Bot \n\n1. Sent your telegram big video file \n2. Reply the file - /compress And Persentage \nEg:- <code>/compress 50</code> \n\nSupport Group :@Dx_Support"
+        "Hi I am <b>🦋Saviour Coder Video Compressor Bot🦋</b> \n\n1. <i>Sent your telegram big video file</i> \n2. <i>Reply the file - /compress And enter the Persentage to which you want to compress</i> \nEg:- <code>/compress 50</code> compresses the video to 50% \n\nSupport Group :@Dx_Support"
     )
     WRONG_MESSAGE = get_config(
         "STRINGS_WRONG_MESSAGE",
