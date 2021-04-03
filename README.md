@@ -1,53 +1,55 @@
----
+<p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/file/1e03c485dfc2794b1b8a4.jpg" width="5000"></a></p> 
+<h1 align="center"><b>Saviour_Coder-Video-Compressor-BOT 🇮🇳 </b></h1>
+<h4 align="center">A Powerful, Smart And Simpe Video Compressor Bot.</h4>
 
-## Video Compressor Bot
 
-## HOW TO DEPLOY YOUTUBE TUTORIAL
+## Support 🚑
+<a href="https://t.me/UC_bot_channel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-<a href="https://youtu.be/YEwAN3iTGyE"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+## I'm just a student who just want to learn coding!!
 
-#### The Easy Way
+- 🔭 I love to code.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to swim and play guitar / drums
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/VidComBot)
 
-#### The Hard Way
+###  Demo for the Bot
+-Test our Bot by Clicking the button below 
 
-```sh
-virtualenv -p python3 VENV
-. ./VENV/bin/activate
-pip install -r requirements.txt
-# <Create config.py with variables as given below>
-python bot.py
+<a href="http://t.me/SC_VCom_Bot"><img src="https://img.shields.io/badge/Click%F0%9F%91%89-SC%20Video%20Compressor%20Bot-orange"></a>
+<br>
+
+
+A Powerful and Useful Bot Which Can :-
+* ✅Compress the videos you send
+* ✅Add Custom Thumbnail to the File/Video
+* ✅be easily used.
+
+# Hosting 🖥
+
+### Deploying To Heroku ⚙
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/SC-Video-Compressor-Bot)
+
+### NOTE✍🏻
+<HR/>
+
+If you are facing any issue or having problem in deployment then contact us through our group.
+
+
+<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join%F0%9F%91%89-Ubuntu%20Coders-brightgreen"></a>
+
+<HR/>
+
+### Mandatory Configs 📒
 ```
-
-An example `config.py` file could be:
-
-**Not All of the variables are mandatory**
-
-```python3
-from sample_config import Config
-
-class Development(Config):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-  TG_BOT_TOKEN = ""
-  AUTH_USERS = [
-    7351948
-  ]
+[+] Make Sure You Add All These Mandatory Vars. 
+    [-] API_ID:   You can get this value from https://my.telegram.org
+    [-] API_HASH :   You can get this value from https://my.telegram.org
+    [-] AUTH_USERS : allow only pre-defined users to use this bot, You can get this From @userinfobot
+    [-] BOT_TOKEN : You can get thus value from https://t.me/BotFather
+    [-] CHAT_BASE_TOKEN : You can get this value from http://chatbase.com/
+[+] The SC-TRenamer-bot will not work without setting the mandatory vars.
 ```
-
-### [@BotFather](https://telegram.dog/BotFather) Commands
-
-```
-start - Checking bot live.
-compress - To compress the video.
-cancel - Stop the process.
-log - Get log
-help - To know about bot
-```
-## CREDITS
-
-[@SpEcHide](https://github.com/spechide/publicleech)
-
-#### LICENSE
-- GPLv3
