@@ -50,6 +50,5 @@ If you are facing any issue or having problem in deployment then contact us thro
     [-] API_HASH :   You can get this value from https://my.telegram.org
     [-] AUTH_USERS : allow only pre-defined users to use this bot, You can get this From @userinfobot
     [-] BOT_TOKEN : You can get thus value from https://t.me/BotFather
-    [-] CHAT_BASE_TOKEN : You can get this value from http://chatbase.com/
 [+] The SC-TRenamer-bot will not work without setting the mandatory vars.
 ```
