@@ -17,7 +17,7 @@
 
 
 ###  Demo for the Bot
--Test our Bot by Clicking the button below 
+* Test our Bot by Clicking the button below 
 
 <a href="http://t.me/SC_VCom_Bot"><img src="https://img.shields.io/badge/Click%F0%9F%91%89-SC%20Video%20Compressor%20Bot-orange"></a>
 <br>
