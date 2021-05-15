@@ -16,7 +16,7 @@ This is <b>🌈Saviour Coders' Video Compressor Bot🌈.</b>
 🎯Easy to use</i>
 
 <b>Support Group</b> :- ⛵️@ubuntu_coders⛵️
-<b>Support Channel</b> :- 💈@UC_bot_channel💈
+<b>Support Channel</b> :- 💈@UCbotchannel💈
 <b>My Master</b> :- 🔮@saviour_coder🔮"""
     ABS_TEXT = " Please don't be selfish."
     
