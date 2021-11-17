@@ -1,6 +1,6 @@
 aiohttp
 Pillow
 psutil
-https://github.com/pyrogram/pyrogram
+pyrogram
 https://github.com/Tinche/aiofiles/archive/master.zip
 tgcrypto
